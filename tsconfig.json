@@ -5,6 +5,7 @@
     },
   },
   "noEmit": true,
+  "allowImportingTsExtensions": true,
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
