@@ -9,7 +9,6 @@ import { motion } from "framer-motion";
 import HText from "@/shared/HText";
 import Class from "./Class";
 import { ClassType } from "@/shared/types";
-import { image } from "framer-motion/client";
 
 const classes: Array<ClassType> = [
 	{
